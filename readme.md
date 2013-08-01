@@ -45,6 +45,8 @@ If you'd like to participate:
   - *close up punctuation*: Some older printers set extra whitespace around quotes, semicolons and colons. And of course the OCR is inherently dumb. Even if the original page has extra space, modernize the spacing around punctuation marks---including em-dashes.
 - *semantic markup trumps visual*: If this particular magazine uses small caps for the intial word of an article, it should be marked up not as "small caps", but as some sort of "initial word" style.
 - feel free to launch branches with annotations, notes, variations, explanatory text... whatever you like.
+- the individual markdown files will end up being stitched together to build the whole document; remember that blank lines start new paragraphs in markdown, so what I'll be doing is removing the last lines of every page, and assuming a blank line _starting_ a page opens a new paragraph
+- `kramdown` will handle inserting typographic quotations more-or-less correctly (as well as all the dashes and stuff), but it can't recognize apostrophe-starting contractions like ’tis or ’twas. Type the correctly-curled quote yourself in these instances (if any).
 - ask questions and open issues!
 
 
