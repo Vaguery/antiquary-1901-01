@@ -40,7 +40,7 @@ If you'd like to participate:
 ### Guidelines
 
 - Try to leave the line endings more or less the way they appear in the original text, except
-  - *close up hyphenated words*: the initial scripts I've run have made most of these into "optional hyphen" ¬ characters, which _may not all_ need to be removed. There's no way to thoughtfully close up `Numer¬ous` but not `will-nilly`, for example.
+  - *close up hyphenated words*: the initial scripts I've run have made most of these into "optional hyphen" ¬ characters, which _may not all_ need to be removed. There's no way to thoughtfully close up `Numer¬ous` but not `willy¬nilly`, for example.
   - *check hyphens, en- and em-dashes*: the scripts have also replaced OCR's en- and em-dashes with kramdown's character strings, but as with everything else they may not have been recognized correctly. An en-dash is represented with two hyphens (`--`), and an em-dash three (`---`).
   - *close up punctuation*: Some older printers set extra whitespace around quotes, semicolons and colons. And of course the OCR is inherently dumb. Even if the original page has extra space, modernize the spacing around punctuation marks---including em-dashes.
 - *semantic markup trumps visual*: If this particular magazine uses small caps for the intial word of an article, it should be marked up not as "small caps", but as some sort of "initial word" style.
