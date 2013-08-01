@@ -1,12 +1,12 @@
 # The January 1901 issue of _The Antiquary_
 
-## An experiment in Github-based proofreading
+## A simple experiment in Github-based editing of digitized texts
 
 The files in this repository are page scans I've made of a 1901 issue of _The Antiquary_ magazine, and accompanying transcriptions of the text on each page. 
 
 The _initial_ transcription was machine-generated OCR code, filtered and cleaned up slightly by some scripts I'm working on. As you know, OCR algorithms are only about 99% accurate---on a per-character level, tested on 12-point laser-printed Times Roman on modern bright white paper. Old books and magazines can be read quite well sometimes, but every material artifact has its own quirks that interfere more or less with that accuracy: unusual typefaces, unexpected typesetting conventions, complex page layouts, marginalia, foxing, library stamps, &c &c
 
-The goal therefore is to **fix the text**.
+One goal therefore is to **fix the text**. But it's not the *only* one. Another is to explore the ways digitized texts can be annotated, reused, and expanded. And of course it's all an experiment in Github's potential for collaboration in publishing and the digital humanities.
 
 ## Starting point
 
