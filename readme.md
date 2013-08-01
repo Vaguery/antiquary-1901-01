@@ -48,7 +48,7 @@ If you'd like to participate:
 - ask questions and open issues!
 
 
-## What's doesn't work
+## What doesn't work
 
 There's no support yet for
 
