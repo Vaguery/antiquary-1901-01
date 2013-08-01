@@ -30,11 +30,12 @@ I'd like to end up with a number of things:
 
 If you'd like to participate:
 
-- fork this repository into your own Github account
-- clone your forked copy to your local computer
+- clone this project to your local computer
 - make sure you have the [ruby `kramdown` gem](https://github.com/gettalong/kramdown) installed on your system; it's the basis of the rendering system I'll be using
-- find one or more things to improve in the markdown files
-- submit a pull request!
+- pull any changes that might have been made in the master repository; they'll be happening frequently!
+- find one or more things to improve in the markdown files, and fix them
+- upload your changed version to your Github account
+- submit a pull request; please explain the general changes you've made, so simplify reintegration
 
 ### Guidelines
 
@@ -42,9 +43,10 @@ If you'd like to participate:
   - *close up hyphenated words*: the initial scripts I've run have made most of these into "optional hyphen" ¬ characters, which _may not all_ need to be removed. There's no way to thoughtfully close up `Numer¬ous` but not `will-nilly`, for example.
   - *check hyphens, en- and em-dashes*: the scripts have also replaced OCR's en- and em-dashes with kramdown's character strings, but as with everything else they may not have been recognized correctly. An en-dash is represented with two hyphens (`--`), and an em-dash three (`---`).
   - *close up punctuation*: Some older printers set extra whitespace around quotes, semicolons and colons. And of course the OCR is inherently dumb. Even if the original page has extra space, modernize the spacing around punctuation marks---including em-dashes.
-  - *semantic markup trumps visual*: If this particular magazine uses small caps for the intial word of an article, it should be marked up not as "small caps", but as some sort of "initial word" style.
-  - ask questions and open issues!
-- 
+- *semantic markup trumps visual*: If this particular magazine uses small caps for the intial word of an article, it should be marked up not as "small caps", but as some sort of "initial word" style.
+- feel free to launch branches with annotations, notes, variations, explanatory text... whatever you like.
+- ask questions and open issues!
+
 
 ## What's doesn't work
 
