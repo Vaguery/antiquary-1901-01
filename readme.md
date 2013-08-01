@@ -33,7 +33,7 @@ If you'd like to participate:
 - clone this project to your local computer
 - make sure you have the [ruby `kramdown` gem](https://github.com/gettalong/kramdown) installed on your system; it's the basis of the rendering system I'll be using
 - pull any changes that might have been made in the master repository; they'll be happening frequently!
-- find one or more things to improve in the markdown files, and fix them
+- find one or more things to improve in the markdown files, and fix them using [kramdown syntax](http://kramdown.rubyforge.org/documentation.html), invoking any project-specific styles that are listed in the `stylesheets` directory
 - upload your changed version to your Github account
 - submit a pull request; please explain the general changes you've made, so simplify reintegration
 
