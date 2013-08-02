@@ -37,6 +37,12 @@ If you'd like to contribute (rather than just having a copy of your own), you ca
 - upload your changed version to your fork on Github, placing it in a branch
 - submit a pull request; taking a moment to explain the general changes you've made, to simplify reintegration
 
+### Communicating
+
+One of the interesting things about this scale of project is the relatively high chance of stepping on one anothers' toes. Not just by working on the same material, but by independently reinventing the same functionality in different ways.
+
+Not sure how we'll deal with this best, especially on such a small project. Thoughts are welcomed.
+
 ### Guidelines
 
 - Try to leave the line endings more or less the way they appear in the original text, except
