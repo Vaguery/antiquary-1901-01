@@ -56,6 +56,7 @@ There's no support yet for
 
 - rendering the markdown into a single stitched-together HTML file
 - high-resolution illustrations
+- Github will try to render the markdown files (when you view them on-site) using [Github flavored markdown](https://help.github.com/articles/github-flavored-markdown), not kramdown; that's the way it'll be, I guess. Remember to view the raw files to see the edits rather than the mis-rendered versions.
 
 ## License
 
