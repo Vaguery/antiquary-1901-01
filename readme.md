@@ -28,14 +28,14 @@ I'd like to end up with a number of things:
 
 ## What to do
 
-If you'd like to participate:
+You can always [open an issue](https://github.com/Vaguery/antiquary-1901-01/issues) or send an email for general questions or broad ideas.
 
-- clone this project to your local computer
-- make sure you have the [ruby `kramdown` gem](https://github.com/gettalong/kramdown) installed on your system; it's the basis of the rendering system I'll be using
-- pull any changes that might have been made in the master repository; they'll be happening frequently!
+If you'd like to contribute (rather than just having a copy of your own), you can use the standard Github [fork-branch-pull request cycle](https://help.github.com/articles/fork-a-repo):
+
+- fork the project on Github
 - find one or more things to improve in the markdown files, and fix them using [kramdown syntax](http://kramdown.rubyforge.org/syntax.html), invoking any project-specific styles that are listed in the `stylesheets` directory
-- upload your changed version to your Github account
-- submit a pull request; please explain the general changes you've made, so simplify reintegration
+- upload your changed version to your fork on Github, placing it in a branch
+- submit a pull request; taking a moment to explain the general changes you've made, to simplify reintegration
 
 ### Guidelines
 
