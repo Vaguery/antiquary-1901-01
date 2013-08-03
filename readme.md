@@ -1,4 +1,4 @@
-# The January 1901 issue of _The Antiquary_
+# The January 1901 issue of _The Antiquary_ magazine
 
 ## A simple experiment in Github-based editing of digitized texts
 
