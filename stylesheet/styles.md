@@ -13,4 +13,4 @@
   - something equivalent, if needed, for "bold" (though see `{:.first-word} below`)
 - `{:.first-word}` The first word of some articles is sometimes set in small caps. Mark it up as `**bold**` with double asterisks so it has a graceful fallback on systems lacking small-caps typography, and follow it immediately with `{:.first-word}`: `**Like**{:.first-word} this`
 - `{:.scaps}` This is a placeholder introduced by the post-processing OCR scripts, just to mark locations the OCR software has managed to perceive small caps type in the original document. It should be replaced with a more appropriate semantic style definition.
-- `{:.title}` A bit of semantic sugar for italicized titles of works. As a matter of convention, I've been changing the asterisk 
+- `{:.book-title}` A bit of semantic sugar for italicized titles of works. As a matter of convention, I've been changing the asterisk 
