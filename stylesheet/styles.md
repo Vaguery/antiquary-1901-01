@@ -3,7 +3,7 @@
 ## Block styles
 
 - `{:.publication-date}` is a block style for isolated one-line dates in the topmatter of a magazine issue
-- {:.inscription} is to be a blockquote style, with no initial indents
+- {:.inscription} is to be a paragraph style, indicating no initial indents
 
 ## Inline styles
 
