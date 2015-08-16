@@ -63,6 +63,9 @@ Not sure how we'll deal with this best, especially on such a small project. Thou
 - add en-dashes in ranges, even if they don't appear in the original page
 - no idea how to make the heading and title levels consistent yet; sometimes I use `##`, sometimes `###`
 - indicate approximate illustration locations in HTML comments `<-- like this -->`
+- `A.D.` should be set close (like that) and will eventually be styled as small caps
+- some book titles, with extensive subtitles, are decorated only partially; this may be fixed or not, as you see fit. For example. `*The Book of John Fisher*{:.book-title}, Town Clerk and Deputy Recorder of Warwick (1580--1588)` appears to be an entire title, but only the first portion was set in small caps in the original review abstract. Open question.
+- several inline headers are used in the endmatter, especially on page 32; separate the header as such (`Erratum` or `Note to Publishers`) and we will use CSS to inline it with the em-dash (which should also be removed)
 
 ## What doesn't work
 
