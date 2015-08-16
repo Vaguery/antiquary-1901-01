@@ -55,6 +55,14 @@ Not sure how we'll deal with this best, especially on such a small project. Thou
 - `kramdown` will handle inserting typographic quotations more-or-less correctly (as well as all the dashes and stuff), but it can't recognize apostrophe-starting contractions like ’tis or ’twas. Type the correctly-curled quote yourself in these instances (if any).
 - ask questions and open issues!
 
+## Some notes towards a style guide
+
+- book and magazine titles should be italicized (with asterisks or underscores) and styled `{:.book-title}`, even when they are set in small caps in the work; the small caps decoration appears within blocks labeled `{:.review-abstract}` and can be separately decorated if needed
+- bring people's names up onto one line, including their degrees or affiliations
+- all thought breaks and horizontal rules are set, for now, as `* * *`
+- add en-dashes in ranges, even if they don't appear in the original page
+- no idea how to make the heading and title levels consistent yet; sometimes I use `##`, sometimes `###`
+- indicate approximate illustration locations in HTML comments `<-- like this -->`
 
 ## What doesn't work
 
